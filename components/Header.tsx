@@ -2,9 +2,9 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header>
+    <header className="flex">
       <h1>Furniverse</h1>
-      <nav>
+      <nav className="">
         <ul>
           <li>
             <a href="#">Home</a>
