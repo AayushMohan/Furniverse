@@ -9,6 +9,10 @@ const Hero = (props: Props) => {
         {" "}
         <span>The best</span> selection of furniture
       </h1>
+      <p>
+        We make your life more comfortable with quality and comfortable
+        furniture.
+      </p>
     </div>
   );
 };
