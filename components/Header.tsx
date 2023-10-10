@@ -2,12 +2,12 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="flex">
+    <header className="">
       <h1>Furniverse</h1>
-      <nav className="">
+      <nav className="flex">
         <ul>
           <li>
-            <a href="#">Home</a>
+            <a href="#">Products</a>
           </li>
           <li>
             <a href="#">Furniture</a>
