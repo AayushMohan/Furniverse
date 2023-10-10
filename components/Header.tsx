@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="">
       <h1>Furniverse</h1>
-      <nav className="flex">
+      <nav className="">
         <ul>
           <li>
             <a href="#">Products</a>
@@ -13,10 +13,7 @@ const Header = () => {
             <a href="#">Rooms</a>
           </li>
           <li>
-            <a href="#">About Us</a>
-          </li>
-          <li>
-            <a href="#">Contact Us</a>
+            <a href="#">Contact</a>
           </li>
         </ul>
       </nav>
