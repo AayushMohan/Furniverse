@@ -22,6 +22,7 @@ const Header = () => {
               <MagnifyingGlassCircleIcon />
             </a>
           </li>
+          <li></li>
         </ul>
       </nav>
     </header>
