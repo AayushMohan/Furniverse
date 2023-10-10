@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="">
       <h1>Furniverse</h1>
-      <nav className="">
+      <nav className="flex">
         <ul>
           <li>
             <a href="#">Products</a>
