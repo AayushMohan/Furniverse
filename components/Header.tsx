@@ -1,3 +1,4 @@
+import { MagnifyingGlassCircleIcon } from "@heroicons/react/20/solid";
 import React from "react";
 
 const Header = () => {
@@ -17,7 +18,9 @@ const Header = () => {
           </li>
 
           <li>
-            <a href="#"></a>
+            <a href="#">
+              <MagnifyingGlassCircleIcon />
+            </a>
           </li>
         </ul>
       </nav>
