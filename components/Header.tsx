@@ -1,14 +1,15 @@
 import {
   HeartIcon,
   MagnifyingGlassCircleIcon,
+  ShoppingBagIcon,
 } from "@heroicons/react/20/solid";
 import React from "react";
 
 const Header = () => {
   return (
-    <header className="">
+    <header className="flex">
       <h1>Furniverse</h1>
-      <nav className="flex">
+      <nav className="flex-col justify-around">
         <ul>
           <li>
             <a href="#">Products</a>
@@ -22,13 +23,15 @@ const Header = () => {
 
           <li>
             <a href="#">
-              <MagnifyingGlassCircleIcon />
+              <MagnifyingGlassCircleIcon className="h-10" />
             </a>
           </li>
           <li>
-            <HeartIcon />
+            <HeartIcon className="h-10" />
           </li>
-          <li></li>
+          <li>
+            <ShoppingBagIcon className="h-10" />
+          </li>
         </ul>
       </nav>
     </header>
