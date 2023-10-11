@@ -18,6 +18,10 @@ const Hero = (props: Props) => {
       <div>
         <p>What do we provide to you?</p>
       </div>
+
+      <div>
+        <h1>Rich Experience</h1>
+      </div>
     </div>
   );
 };
