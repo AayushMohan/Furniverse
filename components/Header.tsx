@@ -1,8 +1,8 @@
 import {
-  HeartIcon,
   MagnifyingGlassCircleIcon,
   ShoppingBagIcon,
 } from "@heroicons/react/20/solid";
+import { HeartIcon } from "@heroicons/react/24/outline";
 import React from "react";
 
 const Header = () => {
@@ -21,17 +21,17 @@ const Header = () => {
             <a href="#">Contact</a>
           </li>
 
-          {/* <li>
+          <li>
             <a href="#">
-              <MagnifyingGlassCircleIcon className="h-10" />
+              <MagnifyingGlassCircleIcon className="h-6" />
             </a>
           </li>
           <li>
-            <HeartIcon className="h-10" />
+            <HeartIcon className="h-6 " />
           </li>
           <li>
             <ShoppingBagIcon className="h-10" />
-          </li> */}
+          </li>
         </ul>
       </nav>
     </header>
