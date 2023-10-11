@@ -25,6 +25,7 @@ const Hero = (props: Props) => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi,
           adipisci?
         </p>
+        <button>More Info</button>
       </div>
 
       <div>
