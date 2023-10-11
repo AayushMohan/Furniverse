@@ -26,6 +26,10 @@ const Hero = (props: Props) => {
           adipisci?
         </p>
       </div>
+
+      <div>
+        <h1>Affordable Price</h1>
+      </div>
     </div>
   );
 };
