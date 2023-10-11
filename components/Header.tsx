@@ -7,8 +7,8 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="bg-[#D7D0CB] flex justify-around">
-      <h1>Furniverse</h1>
+    <header className="bg-[#D7D0CB] flex justify-around items-center p-4">
+      <h1>furniverse</h1>
       <nav>
         <ul className="flex space-x-8">
           <li>
