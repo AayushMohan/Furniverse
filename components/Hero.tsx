@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 type Props = {};
@@ -13,6 +14,10 @@ const Hero = (props: Props) => {
         We make your life more comfortable with quality and comfortable
         furniture.
       </p>
+
+      <div>
+        <p>What do we provide to you?</p>
+      </div>
     </div>
   );
 };
