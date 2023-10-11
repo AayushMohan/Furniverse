@@ -33,6 +33,7 @@ const Hero = (props: Props) => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
           nihil?
         </p>
+        <button>More</button>
       </div>
 
       <div>
