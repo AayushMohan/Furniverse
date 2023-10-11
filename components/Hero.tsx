@@ -49,6 +49,7 @@ const Hero = (props: Props) => {
         <h1>Shop By Category</h1>
         <button>Living Room Chair</button>
         <button>Chair</button>
+        <button>Arm Chair</button>
       </div>
     </div>
   );
