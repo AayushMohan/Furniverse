@@ -1,8 +1,5 @@
-import {
-  MagnifyingGlassCircleIcon,
-  ShoppingBagIcon,
-} from "@heroicons/react/20/solid";
-import { HeartIcon } from "@heroicons/react/24/outline";
+import { MagnifyingGlassCircleIcon } from "@heroicons/react/20/solid";
+import { HeartIcon, ShoppingBagIcon } from "@heroicons/react/24/outline";
 import React from "react";
 
 const Header = () => {
@@ -30,7 +27,7 @@ const Header = () => {
             <HeartIcon className="h-6 " />
           </li>
           <li>
-            <ShoppingBagIcon className="h-6" />
+            <ShoppingBagIcon className="h-6 bg-white" />
           </li>
         </ul>
       </nav>
