@@ -34,6 +34,10 @@ const Hero = (props: Props) => {
           nihil?
         </p>
       </div>
+
+      <div>
+        <h1>Many Choices</h1>
+      </div>
     </div>
   );
 };
