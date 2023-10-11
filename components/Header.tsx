@@ -27,7 +27,7 @@ const Header = () => {
             <HeartIcon className="h-6 " />
           </li>
           <li>
-            <ShoppingBagIcon className="h-6 bg-white" />
+            <ShoppingBagIcon className="h-6 bg-white rounded-full p-1" />
           </li>
         </ul>
       </nav>
