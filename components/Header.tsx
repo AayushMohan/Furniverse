@@ -30,7 +30,7 @@ const Header = () => {
             <HeartIcon className="h-6 " />
           </li>
           <li>
-            <ShoppingBagIcon className="h-10" />
+            <ShoppingBagIcon className="h-6" />
           </li>
         </ul>
       </nav>
