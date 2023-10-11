@@ -44,6 +44,10 @@ const Hero = (props: Props) => {
         </p>
         <button>More Info</button>
       </div>
+
+      <div>
+        <h1>Shop By Category</h1>
+      </div>
     </div>
   );
 };
