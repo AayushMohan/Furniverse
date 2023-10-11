@@ -7,10 +7,10 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="flex">
+    <header className="bg-[#D7D0CB] flex justify-around">
       <h1>Furniverse</h1>
-      <nav className="flex-col justify-around">
-        <ul>
+      <nav>
+        <ul className="flex space-x-8">
           <li>
             <a href="#">Products</a>
           </li>
@@ -21,7 +21,7 @@ const Header = () => {
             <a href="#">Contact</a>
           </li>
 
-          <li>
+          {/* <li>
             <a href="#">
               <MagnifyingGlassCircleIcon className="h-10" />
             </a>
@@ -31,7 +31,7 @@ const Header = () => {
           </li>
           <li>
             <ShoppingBagIcon className="h-10" />
-          </li>
+          </li> */}
         </ul>
       </nav>
     </header>
