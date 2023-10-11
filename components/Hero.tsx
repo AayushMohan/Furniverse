@@ -29,6 +29,10 @@ const Hero = (props: Props) => {
 
       <div>
         <h1>Affordable Price</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
+          nihil?
+        </p>
       </div>
     </div>
   );
