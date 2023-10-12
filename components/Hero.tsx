@@ -32,7 +32,7 @@ const Hero = (props: Props) => {
           <button>More Info</button>
         </div>
         <div>
-          <h1>Affordable Price</h1>
+          <h1 className="font-bold">Affordable Price</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
             nihil?
