@@ -8,7 +8,8 @@ const Hero = (props: Props) => {
     <div>
       <h1 className="text-3xl">
         {" "}
-        <span className="text-[#D7D0CB]">The best</span> selection of furniture
+        <span className="text-[#D7D0CB] font-serif">The best</span> selection of
+        furniture
       </h1>
       <p>
         We make your life more comfortable with quality and comfortable
