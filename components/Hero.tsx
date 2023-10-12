@@ -6,15 +6,17 @@ type Props = {};
 const Hero = (props: Props) => {
   return (
     <div>
-      <h1 className="text-3xl font-serif font-thin mx-10 p-10">
-        {" "}
-        <span className="text-[#D7D0CB] font-serif">The best</span> selection of
-        furniture
-      </h1>
-      <p>
-        We make your life more comfortable with quality and comfortable
-        furniture.
-      </p>
+      <div className="flex items-center">
+        <h1 className="text-3xl font-serif font-thin mx-10 p-10">
+          {" "}
+          <span className="text-[#D7D0CB] font-serif">The best</span> selection
+          of furniture
+        </h1>
+        <p>
+          We make your life more comfortable with quality and comfortable
+          furniture.
+        </p>
+      </div>
       <div className="flex items-start justify-evenly mx-10 mt-10">
         <div>
           <p>What do we provide to you?</p>
