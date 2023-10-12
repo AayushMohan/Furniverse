@@ -6,7 +6,7 @@ type Props = {};
 const Hero = (props: Props) => {
   return (
     <div>
-      <h1>
+      <h1 className="text-4xl">
         {" "}
         <span>The best</span> selection of furniture
       </h1>
