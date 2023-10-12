@@ -17,10 +17,12 @@ const Hero = (props: Props) => {
           furniture.
         </p>
       </div>
+
       <div className="flex items-start justify-evenly mx-10 mt-10">
         <div>
-          <p className="text-2xl">What do we provide to you?</p>
+          <p className="text-2xl font-serif">What do we provide to you?</p>
         </div>
+
         <div>
           <h1>Rich Experience</h1>
           <p>
