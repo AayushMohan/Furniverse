@@ -6,7 +6,7 @@ type Props = {};
 const Hero = (props: Props) => {
   return (
     <div>
-      <div className="flex items-center">
+      <div className="flex items-center justify-between">
         <h1 className="text-3xl font-serif font-thin mx-10 p-10">
           {" "}
           <span className="text-[#D7D0CB] font-serif">The best</span> selection
