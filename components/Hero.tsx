@@ -19,7 +19,7 @@ const Hero = (props: Props) => {
       </div>
       <div className="flex items-start justify-evenly mx-10 mt-10">
         <div>
-          <p>What do we provide to you?</p>
+          <p className="text-2xl">What do we provide to you?</p>
         </div>
         <div>
           <h1>Rich Experience</h1>
