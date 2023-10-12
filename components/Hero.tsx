@@ -14,7 +14,7 @@ const Hero = (props: Props) => {
         We make your life more comfortable with quality and comfortable
         furniture.
       </p>
-      <div className="flex items-center justify-evenly mx-10 mt-10">
+      <div className="flex items-start justify-evenly mx-10 mt-10">
         <div>
           <p>What do we provide to you?</p>
         </div>
