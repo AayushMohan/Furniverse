@@ -5,7 +5,7 @@ type Props = {};
 
 const Hero = (props: Props) => {
   return (
-    <div>
+    <div className="h-screen">
       <div className="flex items-center justify-between">
         <h1 className="text-3xl font-serif font-thin mx-10 p-10">
           {" "}
@@ -16,6 +16,15 @@ const Hero = (props: Props) => {
           We make your life more comfortable with quality and comfortable
           furniture.
         </p>
+      </div>
+
+      <div className="flex">
+        <Image
+          src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2900&q=80"
+          alt=""
+          width={700}
+          height={400}
+        />
       </div>
 
       <div className="flex items-start justify-evenly mx-20 mt-10">
