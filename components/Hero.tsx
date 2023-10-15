@@ -49,7 +49,7 @@ const Hero = (props: Props) => {
           <button>More Info</button>
         </div>
         <div>
-          <h1>Many Choices</h1>
+          <h1 className="font-bold">Many Choices</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
             labore?
