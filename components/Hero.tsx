@@ -42,7 +42,7 @@ const Hero = (props: Props) => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi,
             adipisci?
           </p>
-          <button className="flex">
+          <button className="flex mt-4 font-semibold">
             More Info
             <ArrowRightIcon className="h-6 mx-4" />
           </button>
