@@ -9,8 +9,8 @@ const Hero = (props: Props) => {
       <div className="flex items-center justify-between">
         <h1 className="text-3xl font-serif font-thin mx-10 p-10">
           {" "}
-          <span className="text-[#D7D0CB] font-serif">The best</span> selection
-          of furniture
+          <span className="text-[#383838]/50 font-serif">The best</span>{" "}
+          selection of furniture
         </h1>
         <p className="p-10 m-10">
           We make your life more comfortable with quality and comfortable
