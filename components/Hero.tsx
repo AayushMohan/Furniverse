@@ -58,13 +58,17 @@ const Hero = (props: Props) => {
             <ArrowRightIcon className="h-6 mx-4" />
           </button>
         </div>
+
         <div>
           <h1 className="font-bold">Many Choices</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
             labore?
           </p>
-          <button>More Info</button>
+          <button className="flex mt-4 font-semibold">
+            More Info
+            <ArrowRightIcon className="h-6 mx-4" />
+          </button>
         </div>
       </div>
     </div>
