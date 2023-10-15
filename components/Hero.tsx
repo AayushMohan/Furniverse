@@ -36,7 +36,7 @@ const Hero = (props: Props) => {
         </div>
 
         <div>
-          <h1 className="font-bold">Rich Experience</h1>
+          <h1 className="font-bold">Rich experience</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi,
             adipisci?
