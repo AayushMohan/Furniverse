@@ -62,7 +62,7 @@ const Hero = (props: Props) => {
 
         <div>
           <h1 className="font-bold">Many Choices</h1>
-          <p className="text-[#383838]/50">
+          <p className="text-[#383838]/50 w-2/3">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
             labore?
           </p>
