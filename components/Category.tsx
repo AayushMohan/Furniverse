@@ -5,8 +5,8 @@ type Props = {};
 const Category = (props: Props) => {
   return (
     <div className="h-screen bg-[#F0f0F0]">
+      <h1 className="text-3xl">Shop By Category</h1>
       <div>
-        <h1>Shop By Category</h1>
         <button>Living Room Chair</button>
         <button>Chair</button>
         <button>Arm Chair</button>
