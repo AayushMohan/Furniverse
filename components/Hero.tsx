@@ -29,7 +29,10 @@ const Hero = (props: Props) => {
 
       <div className="flex items-start justify-evenly mx-20 mt-10">
         <div>
-          <p className="text-2xl font-serif">What do we provide to you?</p>
+          <p className="text-2xl font-serif text-[#383838]/50">
+            <span className="text-[#383838]">What </span>
+            do we Provide to you?
+          </p>
         </div>
 
         <div>
