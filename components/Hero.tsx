@@ -1,3 +1,4 @@
+import { ArrowRightIcon } from "@heroicons/react/20/solid";
 import Image from "next/image";
 import React from "react";
 
@@ -41,7 +42,10 @@ const Hero = (props: Props) => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi,
             adipisci?
           </p>
-          <button>More Info</button>
+          <button className="flex">
+            More Info
+            <ArrowRightIcon className="h-6 mx-4" />
+          </button>
         </div>
         <div>
           <h1 className="font-bold">Affordable Price</h1>
