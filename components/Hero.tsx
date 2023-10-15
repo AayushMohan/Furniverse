@@ -53,7 +53,10 @@ const Hero = (props: Props) => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
             nihil?
           </p>
-          <button>More Info</button>
+          <button className="flex mt-4 font-semibold">
+            More Info
+            <ArrowRightIcon className="h-6 mx-4" />
+          </button>
         </div>
         <div>
           <h1 className="font-bold">Many Choices</h1>
