@@ -47,9 +47,10 @@ const Hero = (props: Props) => {
             <ArrowRightIcon className="h-6 mx-4" />
           </button>
         </div>
+
         <div>
           <h1 className="font-bold">Affordable Price</h1>
-          <p>
+          <p className="text-[#383838]/50">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
             nihil?
           </p>
