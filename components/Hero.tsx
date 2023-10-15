@@ -5,7 +5,7 @@ type Props = {};
 
 const Hero = (props: Props) => {
   return (
-    <div className="h-screen">
+    <div className="h-screen bg-[#F0f0F0]">
       <div className="flex items-center justify-between">
         <h1 className="text-3xl font-serif font-thin mx-10 p-10">
           {" "}
@@ -55,12 +55,6 @@ const Hero = (props: Props) => {
             labore?
           </p>
           <button>More Info</button>
-        </div>
-        <div>
-          <h1>Shop By Category</h1>
-          <button>Living Room Chair</button>
-          <button>Chair</button>
-          <button>Arm Chair</button>
         </div>
       </div>
     </div>
