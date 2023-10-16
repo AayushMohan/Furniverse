@@ -19,6 +19,9 @@ const Category = (props: Props) => {
         <button className="mx-4 p-2 bg-[#A5988E] text-[#383838] rounded-2xl">
           Stool
         </button>
+        <button className="mx-4 p-2 bg-[#A5988E] text-[#383838] rounded-2xl">
+          Lounger
+        </button>
       </div>
     </div>
   );
