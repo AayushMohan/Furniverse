@@ -10,7 +10,9 @@ const Category = (props: Props) => {
         <button className="mx-4 p-2 bg-[#A5988E] text-[#383838] rounded-2xl">
           Living Room
         </button>
-        <button>Chair</button>
+        <button className="mx-4 p-2 bg-[#A5988E] text-[#383838] rounded-2xl">
+          Chair
+        </button>
         <button>Arm Chair</button>
       </div>
     </div>
