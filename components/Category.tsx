@@ -49,7 +49,7 @@ const Category = (props: Props) => {
           alt="table"
           width={370}
           height={370}
-          className="rounded-md mx-4"
+          className="mx-4"
         />
         <Image
           src="https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fHRhYmxlfGVufDB8MXwwfHx8MA%3D%3D&w=800"
