@@ -69,6 +69,7 @@ const Category = (props: Props) => {
       </div>
       <div className="bg-inherit flex h-10">
         <ChevronLeftIcon />
+        <ChevronRightIcon />
       </div>
     </div>
   );
