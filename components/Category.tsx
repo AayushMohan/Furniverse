@@ -63,7 +63,7 @@ const Category = (props: Props) => {
           alt="table"
           width={300}
           height={300}
-          className=""
+          className="mx-4"
         />
       </div>
     </div>
