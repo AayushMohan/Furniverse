@@ -27,7 +27,7 @@ const Category = (props: Props) => {
           Sofa
         </button>
       </div>
-      <div className="flex items-center justify-around mt-10 pb-20 bg-inherit">
+      <div className="flex items-center justify-around mt-10 pb-20 bg-inherit overflow-hidden">
         <Image
           src="https://images.unsplash.com/photo-1589535255042-88799bb1b20b?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=2787"
           alt="table"
