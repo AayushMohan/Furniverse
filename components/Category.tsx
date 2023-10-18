@@ -6,7 +6,7 @@ type Props = {};
 const Category = (props: Props) => {
   return (
     <div className="h-screen bg-[#F0f0F0] pt-20">
-      <h1 className="text-3xl text-center">Shop By Category</h1>
+      <h1 className="text-3xl text-center font-serif">Shop By Category</h1>
       <div className="flex items-center justify-center mt-10">
         <button className="mx-4 p-2 bg-[#A5988E]/70 text-[#383838]/90 rounded-2xl">
           Living Room
