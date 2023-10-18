@@ -47,7 +47,7 @@ const Category = (props: Props) => {
         <Image
           src="https://plus.unsplash.com/premium_photo-1670950411934-e21abf39191e?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=2787"
           alt="table"
-          width={370}
+          width={400}
           height={370}
           className="mx-4"
         />
