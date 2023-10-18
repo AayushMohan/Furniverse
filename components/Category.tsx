@@ -33,7 +33,7 @@ const Category = (props: Props) => {
           alt="table"
           width={300}
           height={300}
-          className="rounded-md"
+          className=""
         />
 
         <Image
