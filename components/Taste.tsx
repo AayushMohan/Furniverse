@@ -1,3 +1,4 @@
+import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/20/solid";
 import Image from "next/image";
 import React from "react";
 
@@ -45,6 +46,9 @@ const Taste = (props: Props) => {
           height={250}
           className="mx-4"
         />
+      </div>
+      <div className="bg-inherit flex items-center justify-around">
+        <ChevronLeftIcon className="h-16" />
       </div>
     </div>
   );
