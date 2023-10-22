@@ -67,9 +67,9 @@ const Category = (props: Props) => {
           className="mx-4"
         />
       </div>
-      <div className="bg-inherit flex h-16">
-        <ChevronLeftIcon />
-        <ChevronRightIcon />
+      <div className="bg-inherit flex items-center justify-around">
+        <ChevronLeftIcon className="h-16" />
+        <ChevronRightIcon className="h-16" />
       </div>
     </div>
   );
