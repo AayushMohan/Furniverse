@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Hero from "@/components/Hero";
 import Header from "@/components/Header";
+import Taste from "@/components/Taste";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -23,6 +24,7 @@ export default function RootLayout({
         <Header />
         <Hero />
         <Category />
+        <Taste />
         {children}
       </body>
     </html>
