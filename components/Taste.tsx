@@ -16,6 +16,14 @@ const Taste = (props: Props) => {
           height={250}
           className="mx-4"
         />
+
+        <Image
+          src="https://images.unsplash.com/photo-1581428982868-e410dd047a90?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=2787"
+          alt="table"
+          width={300}
+          height={300}
+          className="mx-4"
+        />
       </div>
     </div>
   );
