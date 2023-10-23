@@ -48,7 +48,7 @@ const Taste = (props: Props) => {
         />
       </div>
       <div className="bg-inherit flex items-center justify-around">
-        <ChevronLeftIcon className="h-14" />
+        <ChevronLeftIcon className="h-16" />
         <ChevronRightIcon className="h-16" />
       </div>
     </div>
