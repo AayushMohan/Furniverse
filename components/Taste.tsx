@@ -55,9 +55,9 @@ const Taste = (props: Props) => {
         <Image
           src="https://images.unsplash.com/photo-1579101324336-b71150dc9378?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="chair"
-          width={1600}
+          width={1500}
           height={100}
-          className=""
+          className="object-contain"
         />
         <div className="absolute top-1/2 right-32 flex flex-col font-serif">
           <span className="text-3xl">Discounts Change </span>
