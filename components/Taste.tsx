@@ -59,7 +59,7 @@ const Taste = (props: Props) => {
           height={100}
           className=""
         />
-        <div className="absolute top-44 right-14">
+        <div className="absolute top-44 right-14 flex flex-col">
           <span>Discounts Change </span>
           <span>every three weeks</span>
           <button>More Info</button>
