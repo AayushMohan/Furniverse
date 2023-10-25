@@ -62,7 +62,7 @@ const Taste = (props: Props) => {
         <div className="absolute top-44 right-14 flex flex-col font-serif">
           <span className="text-3xl">Discounts Change </span>
           <span className="text-3xl">every three weeks</span>
-          <button className="p-4">More Info</button>
+          <button className="p-4 bg-[#A5988E]/70">More Info</button>
         </div>
       </div>
     </div>
