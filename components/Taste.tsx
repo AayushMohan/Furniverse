@@ -60,6 +60,7 @@ const Taste = (props: Props) => {
           className=""
         />
         <span>Discounts Change</span>
+        <span>every three weeks</span>
       </div>
     </div>
   );
