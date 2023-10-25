@@ -60,8 +60,8 @@ const Taste = (props: Props) => {
           className=""
         />
         <div className="absolute top-44 right-14 flex flex-col">
-          <span>Discounts Change </span>
-          <span>every three weeks</span>
+          <span className="text-3xl">Discounts Change </span>
+          <span className="text-3xl">every three weeks</span>
           <button>More Info</button>
         </div>
       </div>
