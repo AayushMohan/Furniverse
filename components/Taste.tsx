@@ -59,6 +59,7 @@ const Taste = (props: Props) => {
           height={100}
           className=""
         />
+        <span>Discounts Change</span>
       </div>
     </div>
   );
