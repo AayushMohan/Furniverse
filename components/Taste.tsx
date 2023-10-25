@@ -59,7 +59,7 @@ const Taste = (props: Props) => {
           height={100}
           className=""
         />
-        <div className="absolute top-44">
+        <div className="absolute top-44 right-14">
           <span>Discounts Change </span>
           <span>every three weeks</span>
         </div>
