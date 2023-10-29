@@ -26,7 +26,7 @@ export default function RootLayout({
         <Hero />
         <Category />
         <Taste />
-        {/* <Swiper /> */}
+        <Swiper />
         {children}
       </body>
     </html>
