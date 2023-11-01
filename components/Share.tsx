@@ -18,8 +18,8 @@ const Share = (props: Props) => {
         <Image
           src="https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGludGVyaW9yJTIwZGVzaWdufGVufDB8MHwwfHx8MA%3D%3D"
           alt="table"
-          width={250}
-          height={250}
+          width={450}
+          height={450}
           className="mx-4"
         />
         <Image
