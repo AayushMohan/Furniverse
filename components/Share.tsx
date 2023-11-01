@@ -7,7 +7,7 @@ const Share = (props: Props) => {
   return (
     <div className="h-screen mt-40">
       <h1>Share your Home with Us</h1>
-      <div className="flex justify-between">
+      <div className="flex justify-between overflow-x-scroll">
         <Image
           src="https://images.unsplash.com/photo-1636138389529-d35a2a348dc1?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGluaW5nJTIwdGFibGV8ZW58MHwwfDB8fHww"
           alt="table"
