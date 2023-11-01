@@ -51,7 +51,7 @@ const Taste = (props: Props) => {
         <ChevronLeftIcon className="h-16" />
         <ChevronRightIcon className="h-16" />
       </div>
-      <div className="relative h-screen">
+      {/* <div className="relative h-screen">
         <Image
           src="https://images.unsplash.com/photo-1579101324336-b71150dc9378?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="chair"
@@ -66,7 +66,7 @@ const Taste = (props: Props) => {
             More Info
           </button>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
