@@ -39,7 +39,7 @@ const Share = (props: Props) => {
           alt="table"
           width={450}
           height={450}
-          className="mx-4"
+          className="mx-2"
         />
       </div>
       <div className="bg-inherit flex items-center justify-around">
