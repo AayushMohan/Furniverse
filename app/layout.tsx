@@ -7,6 +7,7 @@ import Header from "@/components/Header";
 import Taste from "@/components/Taste";
 import Swiper from "@/components/Swiper";
 import Share from "@/components/Share";
+import Products from "@/components/Products";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -29,6 +30,7 @@ export default function RootLayout({
         <Taste />
         {/* <Swiper /> */}
         <Share />
+        <Products />
         {children}
       </body>
     </html>
