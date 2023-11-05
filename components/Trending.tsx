@@ -4,7 +4,7 @@ type Props = {};
 
 const Trending = (props: Props) => {
   return (
-    <div>
+    <div className="h-screen">
       <div>
         <h1>Trending Products</h1>
       </div>
