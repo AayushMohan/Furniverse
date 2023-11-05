@@ -6,10 +6,12 @@ type Props = {};
 const Trending = (props: Props) => {
   return (
     <div className="h-screen">
-      <div>
-        <h1>Trending Products</h1>
+      <div className="mb-10">
+        <h1 className="text-4xl text-center font-serif text-[#383838]/90">
+          Trending Products
+        </h1>
       </div>
-      <div>
+      <div className="">
         <Image
           src="https://images.unsplash.com/photo-1615876063860-d971f6dca5dc?auto=format&fit=crop&q=80&w=2832&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D7"
           alt="table"
