@@ -13,7 +13,7 @@ const Trending = (props: Props) => {
       </div>
       <div className="flex justify-between overflow-x-scroll">
         <Image
-          src="https://images.unsplash.com/photo-1615876063860-d971f6dca5dc?auto=format&fit=crop&q=80&w=2832&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D7"
+          src="https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="table"
           width={450}
           height={450}
