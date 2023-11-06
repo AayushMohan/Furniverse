@@ -19,13 +19,7 @@ const Trending = (props: Props) => {
           height={450}
           className="mx-2"
         />
-        <Image
-          src="https://images.unsplash.com/photo-1632935187086-49a9d8027292?q=80&w=2822&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-          alt="table"
-          width={450}
-          height={450}
-          className="mx-2"
-        />
+
         <Image
           src="https://images.unsplash.com/photo-1604578762246-41134e37f9cc?q=80&w=2908&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="table"
