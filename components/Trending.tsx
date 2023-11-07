@@ -36,7 +36,7 @@ const Trending = (props: Props) => {
           className="mx-2"
         />
         <Image
-          src="https://images.unsplash.com/photo-1589535255042-88799bb1b20b?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          src="https://images.unsplash.com/photo-1560185007-5f0bb1866cab?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D"
           alt="table"
           width={300}
           height={250}
