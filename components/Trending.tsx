@@ -50,7 +50,7 @@ const Trending = (props: Props) => {
           className="mx-2"
         />
         <Image
-          src="https://images.unsplash.com/photo-1698927100805-2a32718a7e05?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEyfHxmdXJuaXR1cmVzfGVufDB8MXwyfHx8MA%3D%3D"
+          src="https://images.unsplash.com/photo-1560184897-67f4a3f9a7fa?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="table"
           width={300}
           height={250}
