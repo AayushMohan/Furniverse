@@ -35,6 +35,7 @@ const Trending = (props: Props) => {
           />
           <span>Best Seller</span>
           <span>Bed</span>
+          <span>$500</span>
         </div>
 
         <div>
