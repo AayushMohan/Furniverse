@@ -33,6 +33,7 @@ const Trending = (props: Props) => {
           />
           <span>Best Seller</span>
         </div>
+
         <div>
           <Image
             src="https://images.unsplash.com/photo-1560449752-3fd4bdbe7df0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGZ1cm5pdHVyZXN8ZW58MHwwfDB8fHww"
@@ -43,13 +44,18 @@ const Trending = (props: Props) => {
           />
           <span>Best Seller</span>
         </div>
-        <Image
-          src="https://images.unsplash.com/photo-1560185007-5f0bb1866cab?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D"
-          alt="table"
-          width={400}
-          height={350}
-          className="mx-2"
-        />
+
+        <div>
+          <Image
+            src="https://images.unsplash.com/photo-1560185007-5f0bb1866cab?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D"
+            alt="table"
+            width={400}
+            height={350}
+            className="mx-2"
+          />
+          <span>Best Seller</span>
+        </div>
+
         <Image
           src="https://images.unsplash.com/photo-1560448204-603b3fc33ddc?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="table"
