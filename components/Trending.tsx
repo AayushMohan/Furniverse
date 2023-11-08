@@ -45,6 +45,7 @@ const Trending = (props: Props) => {
             className="mx-2"
           />
           <span>Best Seller</span>
+          <span>Sofa</span>
         </div>
 
         <div>
