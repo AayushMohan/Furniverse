@@ -12,13 +12,16 @@ const Trending = (props: Props) => {
         </h1>
       </div>
       <div className="flex justify-between overflow-x-scroll">
-        <Image
-          src="https://images.unsplash.com/photo-1602872030490-4a484a7b3ba6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fGZ1cm5pdHVyZXN8ZW58MHwwfDB8fHww"
-          alt="table"
-          width={400}
-          height={350}
-          className="mx-2"
-        />
+        <div className="">
+          <Image
+            src="https://images.unsplash.com/photo-1602872030490-4a484a7b3ba6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fGZ1cm5pdHVyZXN8ZW58MHwwfDB8fHww"
+            alt="table"
+            width={400}
+            height={350}
+            className="mx-2"
+          />
+          <span>Best Seller</span>
+        </div>
 
         <Image
           src="https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGZ1cm5pdHVyZXN8ZW58MHwwfDB8fHww"
@@ -27,7 +30,6 @@ const Trending = (props: Props) => {
           height={350}
           className="mx-2"
         />
-
         <Image
           src="https://images.unsplash.com/photo-1560449752-3fd4bdbe7df0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGZ1cm5pdHVyZXN8ZW58MHwwfDB8fHww"
           alt="table"
