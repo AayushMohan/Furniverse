@@ -32,7 +32,7 @@ const Trending = (props: Props) => {
               alt="table"
               width={400}
               height={350}
-              className="mx-2"
+              className="mx-20"
             />
             <span>Best Seller</span>
             <span>Bed</span>
