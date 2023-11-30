@@ -21,9 +21,13 @@ const Trending = (props: Props) => {
               height={350}
               className="mx-20"
             />
-            <span>Best Seller</span>
-            <span>Dining table</span>
-            <span>$400</span>
+            <div>
+              <span>Best Seller</span>
+              <br />
+              <span>Dining table</span>
+              <br />
+              <span>$400</span>
+            </div>
           </div>
 
           <div>
