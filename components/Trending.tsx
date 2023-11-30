@@ -34,8 +34,8 @@ const Trending = (props: Props) => {
             <Image
               src="https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGZ1cm5pdHVyZXN8ZW58MHwwfDB8fHww"
               alt="table"
-              width={400}
-              height={350}
+              width={750}
+              height={850}
               className="mx-20"
             />
             <span>Best Seller</span>
