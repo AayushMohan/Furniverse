@@ -5,7 +5,7 @@ type Props = {};
 
 const Trending = (props: Props) => {
   return (
-    <div className="h-screen">
+    <div className="h-screen mt-32">
       <div className="mb-10">
         <h1 className="text-4xl text-center font-serif text-[#383838]/90">
           Trending Products
@@ -77,18 +77,6 @@ const Trending = (props: Props) => {
           <span>$2000</span>
         </div>
 
-        <div>
-          <Image
-            src="https://images.unsplash.com/photo-1560184897-67f4a3f9a7fa?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            alt="table"
-            width={400}
-            height={350}
-            className="mx-2"
-          />
-          <span>Best Seller</span>
-          <span>Sofa</span>
-          <span>$1900</span>
-        </div>
         <div>
           <Image
             src="https://images.unsplash.com/photo-1560184897-67f4a3f9a7fa?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
