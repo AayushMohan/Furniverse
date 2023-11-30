@@ -79,8 +79,8 @@ const Trending = (props: Props) => {
             <Image
               src="https://images.unsplash.com/photo-1560448204-603b3fc33ddc?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="table"
-              width={400}
-              height={350}
+              width={750}
+              height={850}
               className="mx-20"
             />
             <span>Best Seller</span>
@@ -94,8 +94,8 @@ const Trending = (props: Props) => {
             <Image
               src="https://images.unsplash.com/photo-1560184897-67f4a3f9a7fa?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="table"
-              width={400}
-              height={350}
+              width={750}
+              height={850}
               className="mx-20"
             />
             <span>Best Seller</span>
