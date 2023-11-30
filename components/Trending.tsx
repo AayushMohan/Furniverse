@@ -19,7 +19,7 @@ const Trending = (props: Props) => {
               alt="table"
               width={750}
               height={850}
-              className="mx-20"
+              className="mx-4"
             />
             <div className="">
               <span>Best Seller</span>
@@ -36,7 +36,7 @@ const Trending = (props: Props) => {
               alt="table"
               width={750}
               height={850}
-              className="mx-20"
+              className="mx-4"
             />
             <span>Best Seller</span>
             <br />
@@ -51,7 +51,7 @@ const Trending = (props: Props) => {
               alt="table"
               width={750}
               height={850}
-              className="mx-20"
+              className="mx-4"
             />
             <span>Best Seller</span>
             <br />
@@ -66,7 +66,7 @@ const Trending = (props: Props) => {
               alt="table"
               width={750}
               height={850}
-              className="mx-20"
+              className="mx-4"
             />
             <span>Best Seller</span>
             <br />
@@ -81,7 +81,7 @@ const Trending = (props: Props) => {
               alt="table"
               width={750}
               height={850}
-              className="mx-20"
+              className="mx-4"
             />
             <span>Best Seller</span>
             <br />
@@ -96,7 +96,7 @@ const Trending = (props: Props) => {
               alt="table"
               width={750}
               height={850}
-              className="mx-20"
+              className="mx-4"
             />
             <span>Best Seller</span>
             <br />
