@@ -99,9 +99,7 @@ const Trending = (props: Props) => {
               className="mx-4"
             />
             <span>Best Seller</span>
-            <br />
             <span>Sofa</span>
-            <br />
             <span>$1900</span>
           </div>
         </div>
