@@ -102,6 +102,18 @@ const Trending = (props: Props) => {
             <span>Sofa</span>
             <span>$1900</span>
           </div>
+          <div>
+            <Image
+              src="https://images.unsplash.com/photo-1560184897-67f4a3f9a7fa?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              alt="table"
+              width={750}
+              height={850}
+              className="mx-4"
+            />
+            <span>Best Seller</span>
+            <span>Sofa</span>
+            <span>$1900</span>
+          </div>
         </div>
       </div>
     </div>
